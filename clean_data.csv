@@ -1,41 +1,23 @@
-,appid,name,review_score,num_reviews
-2,2173480,Non-Euclidean,0,1
-10,2173620,Eagle Hunting Journey,0,1
-14,2173700,Furry Meow,7,2
-18,2173750,A Potion For Chamomile,0,1
-24,2173870,I commissioned some bees 8,0,2
-25,2173880,I commissioned some bees 9,0,2
-26,2173890,I commissioned some bees 10,0,2
-27,2173900,SEX with HITLER 3D,8,10
-32,2173040,Fright Night Sex Fest - Texas Dildo Butchery,0,1
-54,2172620,Wojak This Game,0,3
-56,2172660,The Heart Defenders,0,2
-62,2172840,MORDHAU - Dragon Set,7,20
-65,2172920,Christmas Wonderland 4,0,1
-66,2171980,Romancing The Kingdom,0,4
-67,2171990,Trapped with Jester: Unique Artbook,0,1
-72,2172110,Sex Adventures - GangBang Surprise,0,1
-76,2172170,Brawlhalla - BCX 2022 Pack,7,5
-77,2172190,Stickman's Arena,0,1
-95,2171600,The Enemy Approached The Walls,0,1
-99,2171650,Walking In The Abyss,0,1
-109768,2173480,Non-Euclidean,0,1
-109776,2173620,Eagle Hunting Journey,0,1
-109780,2173700,Furry Meow,7,2
-109784,2173750,A Potion For Chamomile,0,1
-109790,2173870,I commissioned some bees 8,0,2
-109791,2173880,I commissioned some bees 9,0,2
-109792,2173890,I commissioned some bees 10,0,2
-109793,2173900,SEX with HITLER 3D,8,10
-109798,2173040,Fright Night Sex Fest - Texas Dildo Butchery,0,1
-109820,2172620,Wojak This Game,0,3
-109822,2172660,The Heart Defenders,0,2
-109828,2172840,MORDHAU - Dragon Set,7,20
-109831,2172920,Christmas Wonderland 4,0,1
-109832,2171980,Romancing The Kingdom,0,4
-109833,2171990,Trapped with Jester: Unique Artbook,0,1
-109838,2172110,Sex Adventures - GangBang Surprise,0,1
-109842,2172170,Brawlhalla - BCX 2022 Pack,7,5
-109843,2172190,Stickman's Arena,0,1
-109861,2171600,The Enemy Approached The Walls,0,1
-109865,2171650,Walking In The Abyss,0,1
+,appid,name,num_reviews,review_score,review_score_desc,total_positive,total_negative,total_reviews
+1,1648310,Pillars Of Protection,1.0,0.0,1 user reviews,0.0,1.0,1.0
+6,1648390,ScooterFlow,2.0,8.0,Very Positive,436.0,21.0,457.0
+9,1648402,RPG Maker MV - DorapixelMapChips - Modern JP Custom,1.0,0.0,1 user reviews,0.0,1.0,1.0
+17,1648450,Card Tower Defence,1.0,0.0,1 user reviews,0.0,1.0,1.0
+18,1648460,Electron,1.0,0.0,4 user reviews,1.0,3.0,4.0
+19,1648470,谜语女孩,3.0,0.0,3 user reviews,3.0,0.0,3.0
+25,1648560,Nursery Slime,1.0,7.0,Positive,14.0,2.0,16.0
+26,1648580,Athletics 3: Summer Sports,1.0,0.0,4 user reviews,0.0,4.0,4.0
+27,1648590,Undercover Agent,1.0,5.0,Mixed,12.0,10.0,22.0
+28,1648610,Malum,2.0,6.0,Mostly Positive,145.0,53.0,198.0
+32,1647900,Dying Light - Savvy Gamer Bundle,20.0,7.0,Positive,26.0,1.0,27.0
+35,1647940,Anime Artist: Tiffy’s notty secret,6.0,8.0,Very Positive,76.0,7.0,83.0
+36,1647960,Hell Let Loose – Silver Vanguard,2.0,8.0,Very Positive,70.0,12.0,82.0
+37,1647962,Hell Let Loose – Lethal Tide,20.0,8.0,Very Positive,70.0,6.0,76.0
+40,1648000,Heroines,5.0,0.0,5 user reviews,3.0,2.0,5.0
+41,1648020,Forza Horizon 5 Car Pass,1.0,5.0,Mixed,27.0,13.0,40.0
+43,1648040,There You Are,7.0,0.0,7 user reviews,7.0,0.0,7.0
+45,1648060,Automobilista 2 - Monza Pack,2.0,0.0,8 user reviews,7.0,1.0,8.0
+46,1648061,Automobilista 2 - Racin´ USA Pack Pt1,20.0,7.0,Positive,22.0,2.0,24.0
+47,1648062,Automobilista 2 - Racin´ USA Pack Pt2,1.0,7.0,Positive,23.0,0.0,23.0
+48,1648063,Automobilista 2 - Racin´ USA Pack Pt3,5.0,0.0,5 user reviews,2.0,3.0,5.0
+49,1648080,Manual Intervention VR,2.0,0.0,2 user reviews,1.0,1.0,2.0
